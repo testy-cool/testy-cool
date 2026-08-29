@@ -65,6 +65,11 @@ Python, TypeScript, shell. Gemini, Claude, OpenAI through gateways like Bifrost 
 ## Latest posts on testy.cool
 
 <!-- BLOG-POST-LIST:START -->
+- [Flex Inference: 50% Off LLM Calls on Gemini, OpenAI, and Bedrock](https://testy.cool/blog/tools-tech/flex-inference)
+- [UCP - How to Actually Make Money With It](https://testy.cool/blog/tools-tech/universal-commerce-protocol-ucp)
+- [Setting Up SSH for Claude Code](https://testy.cool/blog/tutorial/claude-code-ssh-setup)
+- [Fix Cloudflare Pages Redirect to Custom Domain](https://testy.cool/blog/troubleshooting/cloudflare-pages-redirect-custom-domain)
+- [CSS Clamp Calculator and Tutorial](https://testy.cool/blog/tutorial/css-clamp-fluid-responsive-design)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere
