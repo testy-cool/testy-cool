@@ -1,10 +1,8 @@
-# Hi, I'm TestyCool 👋
+# Mostly LLMs, mostly.
 
-**Mostly LLMs, mostly.**
+**Agents & Web Scraping** · 🐧 **Linux and terminal tooling** · ✍️ **Notes at [testy.cool](https://testy.cool)**
 
-🤖 **AI automation engineer** · 🕷️ **Web scraping and browser agents** · 🐧 **Linux and terminal tooling** · ✍️ **Writing at [testy.cool](https://testy.cool)**
-
-I build LLM pipelines, scrapers, browser agents, and the small CLIs that keep coding agents honest. Most of what is here started as a tool I needed myself, usually a CLI first, then a thin UI where a human needs to see what is going on.
+LLM pipelines, scrapers, browser agents, and the small CLIs that keep coding agents honest. Most of these started as a fix for one recurring annoyance, usually a CLI first, then a thin UI where a human needs to see what is going on.
 
 ## Start here
 
@@ -48,19 +46,19 @@ I build LLM pipelines, scrapers, browser agents, and the small CLIs that keep co
 ### Web
 
 - ☁️ **[cloud-compare](https://github.com/testy-cool/cloud-compare)** - 139 cloud services across AWS, Azure, GCP, and Cloudflare, explained in plain English
-- 🌐 **[testy.cool](https://github.com/testy-cool/testy.cool)** - source for my blog, built on Fumadocs
+- 🌐 **[testy.cool](https://github.com/testy-cool/testy.cool)** - source for the blog, built on Fumadocs
 
-## Sites I run
+## Sites
 
 - 📝 **[testy.cool](https://testy.cool)** - notes on LLM pipelines, agents, scraping, and the tools around them
-- 🕷️ **[scrapedrive.com](https://scrapedrive.com)** - web scraping API I co-founded, with multi-provider routing, anti-bot tiers, and an MCP server for agents
+- 🕷️ **[scrapedrive.com](https://scrapedrive.com)** - co-founded web scraping API with multi-provider routing, anti-bot tiers, and an MCP server for agents
 - 🤖 **[ailookup.dev](https://ailookup.dev)** - self-updating directory of AI research and tools
 - 👗 **[willitslay.com](https://willitslay.com)** - the AI stylist that checks whether clothes match your skin tone and flags cheap polyester
 - 🧠 **[smoothbrain.wiki](https://smoothbrain.wiki)** - learn a topic as a card feed
 
-## What I work with
+## Stack
 
-Python, TypeScript, shell. Gemini, Claude, OpenAI through gateways like Bifrost and LiteLLM. Playwright, CDP, Camoufox, browser-use. Langfuse and Laminar for traces and evals. FastAPI, Docker, Coolify, Cloudflare, PostgreSQL, SQLite, Windmill. Claude Code and Codex all day, with MCP servers of my own.
+Python, TypeScript, shell. Gemini, Claude, OpenAI through gateways like Bifrost and LiteLLM. Playwright, CDP, Camoufox, browser-use. Langfuse and Laminar for traces and evals. FastAPI, Docker, Coolify, Cloudflare, PostgreSQL, SQLite, Windmill. Claude Code and Codex all day, plus home-built MCP servers.
 
 ## Latest posts on testy.cool
 
