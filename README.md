@@ -56,10 +56,6 @@ LLM pipelines, scrapers, browser agents, and the small CLIs that keep coding age
 - 👗 **[willitslay.com](https://willitslay.com)** - the AI stylist that checks whether clothes match your skin tone and flags cheap polyester
 - 🧠 **[smoothbrain.wiki](https://smoothbrain.wiki)** - learn a topic as a card feed
 
-## Stack
-
-Python, TypeScript, shell. Gemini, Claude, OpenAI through gateways like Bifrost and LiteLLM. Playwright, CDP, Camoufox, browser-use. Langfuse and Laminar for traces and evals. FastAPI, Docker, Coolify, Cloudflare, PostgreSQL, SQLite, Windmill. Claude Code and Codex all day, plus home-built MCP servers.
-
 ## Latest posts on testy.cool
 
 <!-- BLOG-POST-LIST:START -->
