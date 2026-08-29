@@ -2,8 +2,6 @@
 
 **Agents & Web Scraping** · 🐧 **Linux and terminal tooling** · ✍️ **Notes at [testy.cool](https://testy.cool)**
 
-LLM pipelines, scrapers, browser agents, and the small CLIs that keep coding agents honest. Most of these started as a fix for one recurring annoyance, usually a CLI first, then a thin UI where a human needs to see what is going on.
-
 ## Start here
 
 - 🗂️ **[agentconvos](https://github.com/testy-cool/agentconvos)** - browse, search, export, and analyze Claude Code, Codex, and Pi conversation history from a TUI
