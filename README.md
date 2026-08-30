@@ -61,7 +61,7 @@
 - [UCP - How to Actually Make Money With It](https://testy.cool/blog/tools-tech/universal-commerce-protocol-ucp)
 - [Setting Up SSH for Claude Code](https://testy.cool/blog/tutorial/claude-code-ssh-setup)
 - [Fix Cloudflare Pages Redirect to Custom Domain](https://testy.cool/blog/troubleshooting/cloudflare-pages-redirect-custom-domain)
-- [CSS Clamp Calculator and Tutorial](https://testy.cool/blog/tutorial/css-clamp-fluid-responsive-design)
+- [How to Remove Windows NUL File](https://testy.cool/blog/troubleshooting/windows-nul-file)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere
