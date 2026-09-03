@@ -19,6 +19,8 @@
 - 🪑 **[pi-agent-backseat](https://github.com/testy-cool/pi-agent-backseat)** - Pi as an on-demand second opinion for live Claude Code and Codex sessions
 - 🚀 **[mcp-launcher](https://github.com/testy-cool/mcp-launcher)** - choose which MCP servers Claude Code and Codex start for each session
 - 🧩 **[nice](https://github.com/testy-cool/nice)** - six one-line prompt shortcuts as a Claude Code plugin
+- 📋 **[herdr-copy-conversation](https://github.com/testy-cool/herdr-copy-conversation)** - copy full terminal scrollback or agent conversations directly to the clipboard in Herdr
+- 💤 **[herdr-hibernate](https://github.com/testy-cool/herdr-hibernate)** - hibernate idle Claude Code, Codex, and Grok panes in Herdr to ~0 RAM
 - 📝 **[tldr](https://github.com/testy-cool/tldr)** - scrape or transcribe anything, summarize it with a local agent CLI, browse the results in the terminal
 - 🎨 **[obsidian-ai-canvas](https://github.com/testy-cool/obsidian-ai-canvas)** - AI on the Obsidian Canvas
 - 🎬 **[video-analyzer-ai](https://github.com/testy-cool/video-analyzer-ai)** - video understanding with multimodal LLMs
