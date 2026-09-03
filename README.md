@@ -58,10 +58,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Flex Inference: 50% Off LLM Calls on Gemini, OpenAI, and Bedrock](https://testy.cool/blog/tools-tech/flex-inference)
+- [A Better Way to Clone Screenshots to HTML](https://testy.cool/blog/lab-notes/screenshot-to-html-bounding-boxes)
 - [UCP - How to Actually Make Money With It](https://testy.cool/blog/tools-tech/universal-commerce-protocol-ucp)
 - [Setting Up SSH for Claude Code](https://testy.cool/blog/tutorial/claude-code-ssh-setup)
 - [Fix Cloudflare Pages Redirect to Custom Domain](https://testy.cool/blog/troubleshooting/cloudflare-pages-redirect-custom-domain)
-- [How to Remove Windows NUL File](https://testy.cool/blog/troubleshooting/windows-nul-file)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere
