@@ -21,6 +21,8 @@
 - 🧩 **[nice](https://github.com/testy-cool/nice)** - six one-line prompt shortcuts as a Claude Code plugin
 - 📋 **[herdr-copy-conversation](https://github.com/testy-cool/herdr-copy-conversation)** - copy full terminal scrollback or agent conversations directly to the clipboard in Herdr
 - 💤 **[herdr-hibernate](https://github.com/testy-cool/herdr-hibernate)** - hibernate idle Claude Code, Codex, and Grok panes in Herdr to ~0 RAM
+- 🎮 **[herdr-agent-control](https://github.com/testy-cool/herdr-agent-control)** - deterministic multi-agent orchestration, supervision, and process leases for Herdr
+- 💬 **[herdr-pane-mentions](https://github.com/testy-cool/herdr-pane-mentions)** - reference nearby panes (`prefix+shift+p`) and inject live peer terminal output into prompts
 - 📝 **[tldr](https://github.com/testy-cool/tldr)** - scrape or transcribe anything, summarize it with a local agent CLI, browse the results in the terminal
 - 🎨 **[obsidian-ai-canvas](https://github.com/testy-cool/obsidian-ai-canvas)** - AI on the Obsidian Canvas
 - 🎬 **[video-analyzer-ai](https://github.com/testy-cool/video-analyzer-ai)** - video understanding with multimodal LLMs
