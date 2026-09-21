@@ -61,11 +61,11 @@
 ## Latest posts on testy.cool
 
 <!-- BLOG-POST-LIST:START -->
+- [Scry: juicy internet data your agent can query](https://testy.cool/blog/lab-notes/scry)
 - [mdtask](https://testy.cool/blog/tried/mdtask)
 - [neat-annotations](https://testy.cool/blog/tried/neat-annotations)
 - [Flex Inference: 50% Off LLM Calls on Gemini, OpenAI, and Bedrock](https://testy.cool/blog/tools-tech/flex-inference)
 - [A Better Way to Clone Screenshots to HTML](https://testy.cool/blog/lab-notes/screenshot-to-html-bounding-boxes)
-- [UCP - How to Actually Make Money With It](https://testy.cool/blog/tools-tech/universal-commerce-protocol-ucp)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere
