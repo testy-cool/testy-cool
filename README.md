@@ -31,6 +31,7 @@
 ### Browser extensions
 
 - 🔎 **[repoaura](https://github.com/testy-cool/repoaura)** - repository health context next to GitHub links
+- 🖍️ **[comprehension-annotator](https://github.com/testy-cool/comprehension-annotator)** - mark what slowed you down while reading, get a prompt to rewrite the page
 - 📰 **[hackernews-enhancement-suite](https://github.com/testy-cool/hackernews-enhancement-suite)** - Hacker News extension suite, Manifest V3
 - 🔗 **[vicinae-link-deck](https://github.com/testy-cool/vicinae-link-deck)** - fast, domain-hierarchical link and path launcher for Vicinae
 
