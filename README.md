@@ -42,6 +42,7 @@
 - 📶 **[wifi-watch](https://github.com/testy-cool/wifi-watch)** - CLI for Wi-Fi jitter, USB dongle state, and kernel Wi-Fi errors
 - ⏱️ **[toggl-linux](https://github.com/testy-cool/toggl-linux)** - Toggl Track tray timer for Linux with an offline queue
 - 🎥 **[floating-webcam-bubble](https://github.com/testy-cool/floating-webcam-bubble)** - drag-anywhere webcam bubble for screencasts, recorder-agnostic
+- 📱 **[phone-webcam-linux](https://github.com/testy-cool/phone-webcam-linux)** - use an Android phone as a webcam on Linux over USB, one command, works on old phones
 - 🧰 **[btools](https://github.com/testy-cool/btools)** - fzf launcher for your registered CLI tools
 - 🎨 **[copyq-gruvbox](https://github.com/testy-cool/copyq-gruvbox)** - Gruvbox dark theme for CopyQ
 - ⏳ **[traytimer](https://github.com/testy-cool/traytimer)** - Windows tray countdown timer with a visual color drain
